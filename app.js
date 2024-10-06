@@ -24,7 +24,7 @@ app.use(
 
 
 // Routes that handle requests
-app.use("/products", productRoutes);
+app.use("/", productRoutes);
 
 
 // Handle unknown routes
