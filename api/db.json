@@ -3,9 +3,9 @@
     "id": 1,
     "category": "Smartphones",
     "name": "Iphone 16 pro max",
-    "price": ["N3,200,000", "N3,450,000"],
-    "image": "./src/16promax.jpg",
-    "details": ["256GB", "512GB"],
+    "price": "N3,200,000",
+    "image": "https://applepremiumstore.com.ng/wp-content/uploads/2024/09/iphone-16-pro-finish-select-202409-6-3inch_GEO_US-scaled.webp",
+    "details": "256GB",
     "description": "Iphone 16 pro max with high-speed 5G and top-tier features."
   },
   {
@@ -13,7 +13,7 @@
     "category": "Smartphones",
     "name": "Iphone 15",
     "price": "N1,200,000",
-    "image": "./src/iphone15.webp",
+    "image": "https://www.imagineonline.store/cdn/shop/files/iPhone_15_Blue_PDP_Image_Position-1__en-IN.jpg?v=1694605184",
     "details": "128GB",
     "description": "Iphone 15 with high-speed 4G and top-tier features."
   },
@@ -199,7 +199,7 @@
   },
   {
     "id": 17,
-    "category": "Networking",
+    "category": "Routers",
     "name": "TP-Link TL-SG108",
     "price": "$49",
     "image": "https://example.com/tp-link-tl-sg108.jpg",
@@ -369,18 +369,18 @@
     "id": 29,
     "category": "Smartphones",
     "name": "Iphone 15 pro max",
-    "price": ["N1,700,000", "N1,800,000"],
-    "image": "./src/15promax.jpg",
-    "details": ["256GB", "512GB"],
+    "price": "N1,700,000",
+    "image": "https://applepremiumstore.com.ng/wp-content/uploads/2023/09/iphone-15-pro-kleuren-2.jpg",
+    "details": "256GB",
     "description": "Iphone 15 pro max with high-speed 5G and top-tier features."
   },
   {
     "id": 30,
     "category": "Smartphones",
     "name": "Iphone 14 pro max",
-    "price": ["N1,400,000", "N1,510,000"],
-    "image": "./src/14promax.webp",
-    "details": ["128GB", "256GB"],
+    "price": "N1,400,000",
+    "image": "https://i5.walmartimages.com/seo/Apple-iPhone-14-Pro-Max-A2651-128GB-Black-US-Model-Factory-Unlocked-Cell-Phone-Very-Good-Condition_e7c05cba-c79a-4a5b-8cd3-32dfccb0492b.b68890b6d20f95d85cf00130b77075b1.jpeg",
+    "details": "128GB",
     "description": "Iphone 14 pro max with high-speed 4G and top-tier features."
   },
   {
@@ -388,7 +388,7 @@
     "category": "Smartphones",
     "name": "Ipad pro m1 11 inches wifi only",
     "price": "N1,700,000",
-    "image": "./src/16promax.jpg",
+    "image": "https://www.apple.com/newsroom/images/product/ipad/standard/apple_ipad-pro-spring21_lp_04202021.jpg.news_app_ed.jpg",
     "details": "256GB",
     "description": "Ipad pro m1 with high-speed internet and top-tier features."
   },
@@ -397,7 +397,7 @@
     "category": "Smartphones",
     "name": "Ipad pro m4 13 inches wifi/cellular only",
     "price": "N1,200,000",
-    "image": "./src/iphone15.webp",
+    "image": "https://www.istore.com.ng/cdn/shop/files/iPad_Pro_11_M4_Cellular_Silver_PDP_Image_Position_1b__WWEN_2fe74023-2dc1-48cf-9d2e-4ef94503f79c_1600x.jpg?v=1716568966",
     "details": "256GB",
     "description": "Ipad pro m4 with high-speed internet and top-tier features."
   },
@@ -433,7 +433,7 @@
     "category": "Computers",
     "name": "Microsoft Surface Pro 5",
     "price": "N2,400,000",
-    "image": "./src/",
+    "image": "./src/surfacepro5.png",
     "details": "Core i5, 8GB RAM, 256GB ssd ",
     "description": "Microsoft Surface Pro 5 with ultimate speed, large storage, and ultra HD display."
   },
@@ -442,7 +442,7 @@
     "category": "Computers",
     "name": "  Microsoft Surface Pro 8",
     "price": "N3,000,000",
-    "image": "./src/dellXps13+.png",
+    "image": "./src/surfacepro8.png",
     "details": "core i5 8gb 256ssd",
     "description": "DELL XPS 13+ 9320 with ultimate speed, large storage, and ultra HD display."
   }
