@@ -20,27 +20,27 @@
   {
     "id": 3,
     "category": "Computers",
-    "name": "Hp Victus 16",
+    "name": "HP VICTUS 16",
     "price": "N1,700,000",
-    "image": "./src/hpVictus.png",
+    "image": "",
     "details": "HP Victus 16 91C59AV-1Core i7 14700HX 16GB DDR5 1TB SSD 16.1-inch RTX 4060 8GB",
     "description": "Hp Victus 16 with powerful performance and stunning 4K display."
   },
   {
     "id": 4,
     "category": "Computers",
-    "name": "Asus Vivobook 16x",
+    "name": "ASUS VIVOBOOK 16X",
     "price": "N6,350,000",
-    "image": "./src/AsusVivobook.png",
+    "image": "https://i5.walmartimages.com/asr/bf476cfc-3fdc-43c6-9f6e-69bc7ddf890d.0e45986c6a40fe67ab7bd0e23d0e2bf7.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
     "details": "ASUS VIVObook 16X 4K OLED LAPTOP, i7 CPU, IRIS 16GB",
     "description": "Asus Vivobook 16x with ultimate speed, large storage, and ultra HD display."
   },
   {
     "id": 5,
     "category": "Accessories",
-    "name": "Sony WH-1000XM5 Wireless Headphones",
-    "price": "$349",
-    "image": "https://example.com/sonywh1000xm5.jpg",
+    "name": "APPLE IPHONE CHARGER",
+    "price": "N15,000",
+    "image": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/64/6516491/1.jpg?1029",
     "details": [
       "Industry-leading noise cancellation",
       "Up to 30 hours of battery life",
@@ -53,8 +53,8 @@
     "id": 6,
     "category": "Accessories",
     "name": "Logitech MX Master 3S Wireless Mouse",
-    "price": "$99",
-    "image": "https://example.com/logitechmxmaster3s.jpg",
+    "price": "N45,000",
+    "image": "https://www.alphacomonline.com/wp-content/uploads/2022/08/Logitech-MX-Master-3S-Wireless-Mouse.png",
     "details": [
       "Ultra-fast scrolling",
       "Customizable buttons",
@@ -68,7 +68,7 @@
     "category": "Consoles",
     "name": "PlayStation 5 slim",
     "price": "N950,000",
-    "image": "./src/ps5",
+    "image": "https://media-cdn.bnn.in.th/436779/PlayStation-5-Slim-Disc-Edition-1-square_medium.jpg",
     "details": [
       "1TB SSD Storage",
       "Ray Tracing Technology",
@@ -81,8 +81,8 @@
     "id": 8,
     "category": "Consoles",
     "name": "PlayStation 4 slim",
-    "price": "N950,000",
-    "image": "./src/ps5",
+    "price": "N350,000",
+    "image": "https://i5.walmartimages.com/seo/Sony-PlayStation-4-Slim-500GB-Console_20ddf697-5b4b-4323-ae66-be23d899d5ee.a5b0db1eecb5e3d49379f3148e69506b.jpeg",
     "details": [
       "500GB SSD Storage",
       "4K Gaming",
@@ -95,7 +95,7 @@
     "category": "Consoles",
     "name": "Nintendo Switch OLED",
     "price": "N350,000",
-    "image": "./src/nintendo.jpg",
+    "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/products/hardware/nintendo-switch-oled-model-white-set/115461-switch-oled-white-boxart-1200x675",
     "details": [
       "7-inch OLED Screen",
       "64GB Internal Storage",
@@ -108,17 +108,17 @@
     "id": 10,
     "category": "Consoles",
     "name": "META QUEST 3 128GB",
-    "price": "$399",
-    "image": "./src/Metaquest.png",
+    "price": "N450,000",
+    "image": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/41/6250982/1.jpg?9665",
     "details": ["512GB NVMe SSD", "VR Gaming", "Custom AMD APU"],
     "description": "The occulus is a vr gaming console designed realistic immersive gaming on the go, with a custom AMD APU and high-speed SSD storage."
   },
   {
     "id": 11,
     "category": "Speakers",
-    "name": "Sonos One",
-    "price": "$199",
-    "image": "https://example.com/sonos-one.jpg",
+    "name": "SONOS ONE",
+    "price": "N199,000",
+    "image": "https://cdn11.bigcommerce.com/s-m2junqdj62/images/stencil/1280x1280/products/4260/3867991/9dfb3adc046eb71e0ff628b6776f2472__18698.1704292360.png?c=1",
     "details": [
       "Smart Speaker with Voice Control",
       "Rich, Room-Filling Sound",
@@ -130,9 +130,9 @@
   {
     "id": 12,
     "category": "Speakers",
-    "name": "Bose SoundLink Revolve+",
-    "price": "$329",
-    "image": "https://example.com/bose-soundlink-revolve-plus.jpg",
+    "name": "BOSE SOUNDLINK REVOLVE+",
+    "price": "N340,000",
+    "image": "https://avstore.in/cdn/shop/files/3.AVStore-Bose-SoundLink-Revolve_-II-Back-View-Luxe-Silver.jpg?v=1685712989&width=2000",
     "details": [
       "360-Degree Sound",
       "Up to 17 Hours of Battery Life",
@@ -144,9 +144,9 @@
   {
     "id": 13,
     "category": "Headphones",
-    "name": "Sony WH-1000XM5",
-    "price": "$349",
-    "image": "https://example.com/sony-wh-1000xm5.jpg",
+    "name": "SONY WH-1000XM5",
+    "price": "N240,000",
+    "image": "https://i5.walmartimages.com/seo/Sony-WH-1000XM5-The-Best-Wireless-Noise-Canceling-Headphones-Silver_4d0c03d8-1d6f-4d8d-859a-546897c2d0df.d5a1926ad3e2af7b07b184cdf4cd7151.jpeg",
     "details": [
       "Industry-Leading Noise Cancellation",
       "30-Hour Battery Life",
@@ -158,9 +158,9 @@
   {
     "id": 14,
     "category": "Headphones",
-    "name": "Bose QuietComfort 45",
-    "price": "$329",
-    "image": "https://example.com/bose-quietcomfort-45.jpg",
+    "name": "BOSE QUIETCOMFORT 45",
+    "price": "N350,000",
+    "image": "https://images-cdn.ubuy.co.in/64cbbee91a56505f2c3a830e-bose-quietcomfort-45-headphones-noise.jpg",
     "details": [
       "Acoustic Noise Cancelling Technology",
       "Up to 24 Hours of Battery Life",
@@ -172,9 +172,9 @@
   {
     "id": 15,
     "category": "Routers",
-    "name": "Netgear Nighthawk AX12",
-    "price": "$399",
-    "image": "https://example.com/netgear-nighthawk-ax12.jpg",
+    "name": "AIRTEL 5G WIRELESS ROUTER",
+    "price": "N70,000",
+    "image": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/50/8480252/1.jpg?2190",
     "details": [
       "Wi-Fi 6 Technology",
       "12 Stream Dual-Band",
@@ -186,9 +186,9 @@
   {
     "id": 16,
     "category": "Routers",
-    "name": "ASUS RT-AX88U",
-    "price": "$299",
-    "image": "https://example.com/asus-rt-ax88u.jpg",
+    "name": "TP LINK ARCHER AX72 AX5400 DUAL GIG WIFI 6",
+    "price": "N280,000",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ATw6Dlz3M9Q3mFjvsxiaICGMfhDlzkB1mA&s",
     "details": [
       "Wi-Fi 6 Dual-Band Router",
       "4x4 MU-MIMO Technology",
@@ -200,23 +200,22 @@
   {
     "id": 17,
     "category": "Routers",
-    "name": "TP-Link TL-SG108",
-    "price": "$49",
-    "image": "https://example.com/tp-link-tl-sg108.jpg",
+    "name": "STARLINK",
+    "price": "N700,000",
+    "image": "https://m.media-amazon.com/images/I/519M3CBYo+L._AC_SL1053_.jpg",
     "details": [
-      "8-Port Gigabit Switch",
-      "Plug and Play",
-      "Metal Housing",
+      "5g internet",
+      "Highspeed connection",
       "Energy Efficient"
     ],
     "description": "The TP-Link TL-SG108 is an 8-port gigabit switch that provides reliable, high-speed network connectivity for your home or office."
   },
   {
     "id": 18,
-    "category": "Networking",
-    "name": "Ubiquiti UniFi Dream Machine",
-    "price": "$299",
-    "image": "https://example.com/ubiquiti-unifi-dream-machine.jpg",
+    "category": "Routers",
+    "name": "MTN 5G WIRELESS ROUTER",
+    "price": "N80,000",
+    "image": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/20/0667523/1.jpg?4732",
     "details": [
       "All-in-One Network Solution",
       "Integrated Security Gateway",
@@ -228,9 +227,9 @@
   {
     "id": 19,
     "category": "Watches",
-    "name": "Apple Watch Series 8",
-    "price": "$399",
-    "image": "https://example.com/apple-watch-series8.jpg",
+    "name": "APPLE WATCH SERIES 8",
+    "price": "N500,000",
+    "image": "https://www.apple.com/newsroom/images/product/watch/standard/Apple-Watch-S8-stainless-steel-silver-220907_inline.jpg.large.jpg",
     "details": [
       "Always-On Retina Display",
       "Heart Rate Monitoring",
@@ -242,9 +241,9 @@
   {
     "id": 20,
     "category": "Watches",
-    "name": "Samsung Galaxy Watch 5",
-    "price": "$279",
-    "image": "https://example.com/samsung-galaxy-watch5.jpg",
+    "name": "SAMSUNG WATCH ULTRA",
+    "price": "N900,000",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/global/wearable/2407/global-wearable-X2_TitaniumSilver_MarineBand_DarkGray_Right-542218222?$640_640_JPG$",
     "details": [
       "Super AMOLED Display",
       "Body Composition Measurement",
@@ -256,12 +255,12 @@
   {
     "id": 21,
     "category": "Watches",
-    "name": "Garmin Venu 2",
-    "price": "$399",
-    "image": "https://example.com/garmin-venu2.jpg",
+    "name": "APPLE SERIES ULTRA 2024",
+    "price": "N1,100,000",
+    "image": "https://www.apple.com/newsroom/images/2024/09/apple-watch-ultra-2-now-available-in-black-titanium/tile/Apple-Watch-Ultra-2-hero-240909-lp.jpg.og.jpg?202410301154",
     "details": [
       "AMOLED Display",
-      "Long Battery Life (up to 11 days)",
+      "Long Battery Life",
       "Fitness and Health Tracking",
       "Built-in GPS"
     ],
@@ -271,8 +270,8 @@
     "id": 22,
     "category": "Watches",
     "name": "Fitbit Sense",
-    "price": "$299",
-    "image": "https://example.com/fitbit-sense.jpg",
+    "price": "N300,000",
+    "image": "https://orangedeals.ng/wp-content/uploads/2022/03/67343_1639228454.jpg",
     "details": [
       "Stress Management Tools",
       "ECG and Heart Rate Monitoring",
@@ -286,7 +285,7 @@
     "category": "Televisions",
     "name": "Samsung 55″ AU8000 Crystal 4K Smart TV",
     "price": "N370,000",
-    "image": "./src/samsung55.png",
+    "image": "https://image-us.samsung.com/SamsungUS/samsungbusiness/tvs/hospitality/luxury/au800-series/gallery/Gallery_Images_HAU8000_KR_001_Front.jpg?$product-details-jpg$",
     "details": [
       "55-inch 4K OLED Display",
       "NVIDIA G-SYNC Compatible",
@@ -298,9 +297,9 @@
   {
     "id": 24,
     "category": "Televisions",
-    "name": "Xiaomi Curved Gaming monitor G34WQi EU",
+    "name": "Xiaomi Curved Gaming monitor G34WQi",
     "price": "N1,400,000",
-    "image": "./src/gaming_monitor.png",
+    "image": "https://i02.appmifile.com/327_operator_sg/12/03/2024/9cb1e3284ad7c1e0e658c3b4908d716a.jpg",
     "details": [
       "4K Neo QLED Display",
       "Quantum HDR 32X",
@@ -312,9 +311,9 @@
   {
     "id": 25,
     "category": "Televisions",
-    "name": "SAMSUNG TV 85 4K UHD",
+    "name": "Samsung tv 85 inches 4K UHD",
     "price": "N1,200,000",
-    "image": "./src/samsung85.png",
+    "image": "https://zit-market.s3.amazonaws.com/media/product_images/samsung-85-inch-tu8000-crystal-uhd-4k-smart-tv-2020_2.0.jpg",
     "details": [
       "85-inch 4K OLED Display",
       "Cognitive Processor XR",
@@ -328,7 +327,7 @@
     "category": "Televisions",
     "name": "Hisense 55 inches Bluetooth 4K UHD Smart TV with Voice Recognition| TV 55 A7K",
     "price": "N638,000",
-    "image": "./src/hisense55.png",
+    "image": "https://zit-market.s3.amazonaws.com/media/product_images/hisense-55-inches-4k-uhd-bluetooth-smart-tv-2024-his-55-a6n__2024-08-26_145946827.jpg",
     "details": [
       "55-inch 4K QLED Display",
       "Mini LED Backlighting",
@@ -342,7 +341,7 @@
     "category": "Televisions",
     "name": "HISENSE 55 inches QLED 4K Smart TV With Quantum Dot",
     "price": "N638,000",
-    "image": "./src/hisense55Qled.png",
+    "image": "https://alabamart.com/cdn/shop/files/1120.png?v=1726826400",
     "details": [
       "55-inch 4K QLED Display",
       "Mini LED Backlighting",
@@ -356,7 +355,7 @@
     "category": "Televisions",
     "name": "SAMSUNG 77-INCH OLED 4K SMART TV 2023 MODEL",
     "price": "N13,517,990",
-    "image": "./src/samsung77.png",
+    "image": "https://shopahome.com/media/catalog/product/cache/2cc56afa6ec104acb00448789bb8dad8/a/u/au-oled-s90c-qa55s90cawxxy-535963608_5.jpg",
     "details": [
       "77-inch 4K oLED Display",
       "Mini LED Backlighting",
@@ -406,7 +405,7 @@
     "category": "Computers",
     "name": "Macbook air M3 13 inches",
     "price": "N1,430,000",
-    "image": "./src/mMacbookAirM3.png",
+    "image": "https://www.istore.com.ng/cdn/shop/files/MacBook_Air_13_in_M3_Midnight_PDP_Image_Position_1__WWEN_1200x.jpg?v=1710772995",
     "details": "HP Victus 16 91C59AV-1Core i7 14700HX 16GB DDR5 1TB SSD 16.1-inch RTX 4060 8GB",
     "description": "Macbook air M3 with powerful performance and stunning 4K display."
   },
@@ -415,7 +414,7 @@
     "category": "Computers",
     "name": "Macbook pro M2 13 inches 2022 ",
     "price": "N1,200,000",
-    "image": "./src/MacbookProM2.png",
+    "image": "https://www.istore.com.ng/cdn/shop/products/MacBook_Pro_16_in_Silver_PDP_Image_Position-1__WWEN_fcd18f10-263e-42dd-845f-7480d0a4fbc5_1200x.png?v=1675253208",
     "details": "ASUS VIVObook 16X 4K OLED LAPTOP, i7 CPU, IRIS 16GB",
     "description": "Macbook pro M2  with ultimate speed, large storage, and ultra HD display."
   },
@@ -424,7 +423,7 @@
     "category": "Computers",
     "name": "DELL XPS 13+ 9320, i7, NOTEBOOK 13.4",
     "price": "N1,700,000",
-    "image": "./src/dellXps13+.png",
+    "image": "https://www.mikkyworld.com/wp-content/uploads/2024/01/Untitled-design-20.png",
     "details": "core i7 16GB ram, 256GB ssd, 9320, i7, NOTEBOOK 13.4",
     "description": "DELL XPS 13+ 9320 with ultimate speed, large storage, and ultra HD display."
   },
@@ -433,7 +432,7 @@
     "category": "Computers",
     "name": "Microsoft Surface Pro 5",
     "price": "N2,400,000",
-    "image": "./src/surfacepro5.png",
+    "image": "https://m.media-amazon.com/images/I/71zZUrzPeXL._AC_SL1500_.jpg",
     "details": "Core i5, 8GB RAM, 256GB ssd ",
     "description": "Microsoft Surface Pro 5 with ultimate speed, large storage, and ultra HD display."
   },
@@ -442,7 +441,7 @@
     "category": "Computers",
     "name": "  Microsoft Surface Pro 8",
     "price": "N3,000,000",
-    "image": "./src/surfacepro8.png",
+    "image": "https://i5.walmartimages.com/seo/Microsoft-Surface-Pro-8-13-inch-i5-8GB-128GB-Platinum_bd273655-6e85-4324-9ff5-2f51b1868f19.6d4eeda02eddbbf1e5db7d4a555c0552.png",
     "details": "core i5 8gb 256ssd",
     "description": "DELL XPS 13+ 9320 with ultimate speed, large storage, and ultra HD display."
   }
