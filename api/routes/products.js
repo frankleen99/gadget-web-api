@@ -7,7 +7,6 @@ router.get("/", (req, res) => {
   res.status(200).json(data);
 });
 
-
 //Route to get products by ID
 router.get("/:id", (req, res) => {
   const itemId = parseInt(req.params.id, 10); // Get the ID and convert to a number
@@ -27,7 +26,6 @@ router.get("/:id", (req, res) => {
   }
 });
 
-
 // Route to get products by name
 router.get("/name/:name", (req, res) => {
   const { name } = req.params;
@@ -37,7 +35,6 @@ router.get("/name/:name", (req, res) => {
   res.json(productsByName);
 });
 
-
 // Route to get products by category
 router.get("/category/:category", (req, res) => {
   const { category } = req.params;
@@ -46,7 +43,6 @@ router.get("/category/:category", (req, res) => {
   );
   res.json(productsByCategory);
 });
-
 
 //Route to get products by specific price
 router.get("/price/:price", (req, res) => {
@@ -70,12 +66,10 @@ router.get("/price/:price", (req, res) => {
 
   if (productsByPrice.length === 0) {
     // If no products are found, return a 404 response
-    return res
-      .status(404)
-      .json({
-        success: false,
-        message: `No products found at price: ${price}`,
-      });
+    return res.status(404).json({
+      success: false,
+      message: `No products found at price: ${price}`,
+    });
   }
 
   res.json({ success: true, products: productsByPrice }); // Respond with the filtered products
